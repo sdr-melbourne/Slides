@@ -17,5 +17,5 @@ Video available at: https://www.youtube.com/watch?v=2mXQClOrVrA
 
 Video available at: https://www.youtube.com/watch?v=aKXxuzTWVkU
 
-Demo videos available at:https://www.youtube.com/channel/UCNSZeqOBRaYUiJFTjNDduVg
+Demo videos available at: https://www.youtube.com/channel/UCNSZeqOBRaYUiJFTjNDduVg
 
