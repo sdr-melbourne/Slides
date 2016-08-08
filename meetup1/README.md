@@ -7,6 +7,7 @@ Speaker: Pamela O'Shea
 https://twitter.com/pamoshea
 
 
+
 Talk 2: An overview of Inspectrum's new features for signal analysis
 
 Speaker: Tres Acton
