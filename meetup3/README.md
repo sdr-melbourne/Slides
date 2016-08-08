@@ -4,9 +4,5 @@
 by Hubert Seiwert, @hubert3
 
 
-
-
 **Talk 2: An introduction to digital signal processing (DSP)**
-by Qasim Chaudhari, @WirelessPi
-
-http://wirelesspractice.com 
+by Qasim Chaudhari, @WirelessPi, http://wirelesspractice.com 
